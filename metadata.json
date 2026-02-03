@@ -1,0 +1,7 @@
+{
+  "name": "VocalMind AI Summarizer",
+  "description": "A production-grade AI voice note summarizer that transcribes audio and generates structured insights including bullet points, action items, and key decisions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
